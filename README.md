@@ -11,11 +11,13 @@
   <li>6. Technical Skills </li>
   <li>7. Soft Skills </li>
 </ul>
+<h2>Tools & Technique:</h2>
+<ul>
+  <li>1. MySQL Database </li>
+  <li>2. Data cleaning </li>
+  <li>3. Data Modelling </li>
+  <li>4. Microsoft Power BI </li>
+  <li>5. DAX (Data Analysis Expression) </li>
+  <li>6. ETL (Extract, Transformation & Load)</li>
+</ul>
 
-Tools & Technique used
-Sales Report
-Finance Report
-Business Inquiries
-Insights & Recommendations
-Technical Skills
-Soft Skills
