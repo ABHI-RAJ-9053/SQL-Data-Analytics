@@ -3,21 +3,21 @@
 <p>AtliQ Hardware, a global leader in computer hardware, specializes in products such as PCs, printers and other computer accessories.<br>The company focuses on optimizing sales strategies and enhancing net gross margins to drive business growth and maximize profitability.</p>
 <h2>Table of content</h2>
 <ul>
-  <li>1. Tools & Technique used </li>
-  <li>2. Sales Report </li>
-  <li>3. Finance Report </li>
-  <li>4. Business Inquiries </li>
-  <li>5. Insights & Recommendations </li>
-  <li>6. Technical Skills </li>
-  <li>7. Soft Skills </li>
+  <li> Tools & Technique used </li>
+  <li> Sales Report </li>
+  <li> Finance Report </li>
+  <li> Business Inquiries </li>
+  <li> Insights & Recommendations </li>
+  <li> Technical Skills </li>
+  <li> Soft Skills </li>
 </ul>
 <h2>Tools & Technique:</h2>
 <ul>
-  <li>1. MySQL Database </li>
-  <li>2. Data cleaning </li>
-  <li>3. Data Modelling </li>
-  <li>4. Microsoft Power BI </li>
-  <li>5. DAX (Data Analysis Expression) </li>
-  <li>6. ETL (Extract, Transformation & Load)</li>
+  <li> MySQL Database </li>
+  <li> Data cleaning </li>
+  <li> Data Modelling </li>
+  <li> Microsoft Power BI </li>
+  <li> DAX (Data Analysis Expression) </li>
+  <li> ETL (Extract, Transformation & Load)</li>
 </ul>
 
