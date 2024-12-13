@@ -20,7 +20,7 @@
   <li> DAX (Data Analysis Expression) </li>
   <li> ETL (Extract, Transformation & Load)</li>
 </ul>
-<h2>Sales Repor : </h2>
+<h2>Sales Report : </h2>
 <h3>Project objective : </h3>
 <p>Sales analytics is an essential tool for businesses, providing them with the ability to track and evaluate their sales performance over time. By utilizing sales analytics, companies can uncover valuable insights into their sales processes, pinpoint areas that need improvement, and make data-driven decisions that foster growth and enhance profitability.</p>
 <p>The project aims to create an in-depth report that focuses on key metrics, including market trends, customer acquisition rates, retention rates, average purchase values, and overall company revenue. This report will provide valuable insights into customer behavior, preferences, and satisfaction, enabling businesses to adapt their products and services to better align with customer needs and capture the market.</p>
